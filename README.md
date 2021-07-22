@@ -1,6 +1,8 @@
-# Github-example
+# Github-example   
+GitHub 사이트의 메인 페이지를 반응형으로 작업.   
 
-BEM   
+
+# BEM   
 CSS 작명 규칙   
 BEM은 Blcok, Element, Modifier를 뜻함.
 
